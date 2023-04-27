@@ -51,6 +51,6 @@ Before embarking on my doctoral journey, I obtained a B.Sc. in Applied Mathemati
 
 ## News
 1. Our paper with title **"A Distributed Linear Quadratic Discrete-Time Game Approach to Formation Control with Collision Avoidance"** was submitted to CDC 2023
-2. Check out this brief video showcasing how four agents form a rhombus formation shape while utilizing a distributed LQ discrete-time game approach to avoid collisions: [https://youtu.be/G2PoqufPMqA](url)
+2. Check out this brief video showcasing how a group of multi agent systems form a rhombus formation shape while utilizing a distributed LQ discrete-time game approach to avoid collisions: [https://youtu.be/G2PoqufPMqA](URL)
 
 
