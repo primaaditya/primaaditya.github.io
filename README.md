@@ -1,6 +1,7 @@
 <Prima Aditya>
 <img src="./primaDP.jpg" width=120 height=108>
-<sub>prima.aditya@tuhh.de</sub>
+
+### <sub>prima.aditya@tuhh.de</sub>
 
 ## About Me
 I am a doctoral candidate enrolled in the Institute of Control Systems at Hamburg University of Technology, Germany, under guidance of Prof. Herbert Werner. My research work is primarily focused on developing fundamental links between control, game theory, and multi-agent systems. At present, I am highly interested in exploring
