@@ -1,5 +1,5 @@
 # Prima Aditya
-
+![Book logo](/primaaditya/primaDP.jpg)
 ## About Me
 I am a doctoral candidate enrolled in the Institute of Control Systems at Hamburg University of Technology, located in Germany. My research work is primarily focused on developing fundamental links between control, game theory, and multi-agent systems. At present, I am highly interested in exploring
 
