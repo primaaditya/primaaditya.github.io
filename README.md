@@ -34,16 +34,16 @@ Before embarking on my doctoral journey, I obtained a B.Sc. in Applied Mathemati
 * **Winter term 2020/2021** Control Systems Theory and Design
 
 ## Supervised Students
-1. Rehbehn, Lennart, "Development of a Matlab/Simulink model for the simulation of the LLRF system including the digital control system, the amplifier, and the cavities", 2020, Bachelor thesis (DESY)
-2. Wandzik, Oliver, "Investigation and modelling of waveguide systems without circulator using the example of REGAE or SINBAD", 2020, Bachelor thesis  (DESY)
-3. Behne, Tobias, "Adaptive Feed-Forward Compensation for Laser Phase Locked Loops in the Optical Synchronization System at European XFEL", 2021, Bachelor thesis (DESY)
-4. Sanden, Morten, "Approximate Dynamic Programming (ADP) for beam parameter optimization at ARES", 2022, Master thesis (DESY)
-5. Flechsig, Lewe, "Increasing reliability of high precision electron beam timing measurement at DESY", 2022, Bachelor thesis (DESY)
-6. Kamel, Kareem, "Development of a quasi-LPV frequency controller for continuous-wave superconducting radio frequency cavities", 2022, Master thesis  (DESY)
-7. Lübsen, Jannis, "Bayesian optimization for the control parameters of the optical synchronization system at European XFEL", 2022, Master thesis  (DESY)
-8. Tran, Thanh Naht, "A Distributed Linear Quadratic Discrete-Time Game (LQDTG) to Multi-Agent Formation", 2022, Master project
-9. Krantz, Benjamin, "Hidden State Estimation at the ARES Electron Accelerator", 2022, Bachelor thesis (DESY)
-10. Mijar, Rohith Kamath, "A Distributed Linear Quadratic Discrete-Time Game (LQDTG) for Spacecraft Formation Flying", 2023, Master project
+1. Rehbehn, Lennart, *"Development of a Matlab/Simulink model for the simulation of the LLRF system including the digital control system, the amplifier, and the cavities"*, 2020, Bachelor thesis (DESY)
+2. Wandzik, Oliver, *"Investigation and modelling of waveguide systems without circulator using the example of REGAE or SINBAD",* 2020, Bachelor thesis  (DESY)
+3. Behne, Tobias, *"Adaptive Feed-Forward Compensation for Laser Phase Locked Loops in the Optical Synchronization System at European XFEL",* 2021, Bachelor thesis (DESY)
+4. Sanden, Morten, *"Approximate Dynamic Programming (ADP) for beam parameter optimization at ARES",* 2022, Master thesis (DESY)
+5. Flechsig, Lewe, *"Increasing reliability of high precision electron beam timing measurement at DESY",* 2022, Bachelor thesis (DESY)
+6. Kamel, Kareem, *"Development of a quasi-LPV frequency controller for continuous-wave superconducting radio frequency cavities",* 2022, Master thesis  (DESY)
+7. Lübsen, Jannis, *"Bayesian optimization for the control parameters of the optical synchronization system at European XFEL",* 2022, Master thesis  (DESY)
+8. Tran, Thanh Naht, *"A Distributed Linear Quadratic Discrete-Time Game (LQDTG) to Multi-Agent Formation",* 2022, Master project
+9. Krantz, Benjamin, *"Hidden State Estimation at the ARES Electron Accelerator",* 2022, Bachelor thesis (DESY)
+10. Mijar, Rohith Kamath, *"A Distributed Linear Quadratic Discrete-Time Game (LQDTG) for Spacecraft Formation Flying",* 2023, Master project
 
 ## News
 1. Our paper with title **"A Distributed Linear Quadratic Discrete-Time Game Approach to Formation Control with Collision Avoidance"** was submitted to CDC 2023
