@@ -20,3 +20,33 @@ Before embarking on my doctoral journey, I obtained a B.Sc. in Applied Mathemati
 8. Priyatno Putra, F., Nurul Fajar, S., Aditya, P., Sadjidon, Khusnul Arif, D.,**"Numerical simulation of tsunami propagation with Finite Difference Method and Runge Kutta 4th Order Method (study case : south coast of Java island)",** *Journal of Physics: Conference Series,* 2019, 1218(1), 012028.
 9. Khusnul Arif, D., Adzkiya, D., Khoirul Roziq, M., Aditya, P., Nur Fadhilah, H., **"Model reduction analysis using Hankel Norm Approximation on discrete-time linear system with the special shape of matrix A",** *Journal of Physics: Conference Series,* 2019, 1218(1), 012050.
 10. Khusnul Arif, D., Nur Fadhilah, H., Aditya, P., **Estimation of Air Pollutant Transportation Equation in Surabaya using Kalman Filter Method**, *International Journal of computing Science and Applied Mathematics*, 2019, doi: 10.12962/j24775401.v6i1.4662.
+
+## Education and experiences
+* **2019-present** Research assistant at the Institute of Control Systems, Hamburg University of Technology
+* **03/2017-09/2019** M.Sc. in Applied Mathematics, Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia
+* **04/2019-06/2019**	Business Analyst at PowerCommerceAsia, Jakarta, Indonesia
+* **07/2018-10/2018**	M.Sc Lab Internship at Shibaura Institute of Technology, Saitama, Japan
+* **09/2013-09/2015**	B.Sc. in Applied Mathematics, Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia
+
+## Teaching Responsibilities
+* **Winter term 2022/2023** Control Systems Theory and Design
+* **Winter term 2021/2022** Control Systems Theory and Design
+* **Winter term 2020/2021** Control Systems Theory and Design
+
+## Supervised Students
+1. Rehbehn, Lennart, "Development of a Matlab/Simulink model for the simulation of the LLRF system including the digital control system, the amplifier, and the cavities", 2020, Bachelor thesis (DESY)
+2. Wandzik, Oliver, "Investigation and modelling of waveguide systems without circulator using the example of REGAE or SINBAD", 2020, Bachelor thesis  (DESY)
+3. Behne, Tobias, "Adaptive Feed-Forward Compensation for Laser Phase Locked Loops in the Optical Synchronization System at European XFEL", 2021, Bachelor thesis (DESY)
+4. Sanden, Morten, "Approximate Dynamic Programming (ADP) for beam parameter optimization at ARES", 2022, Master thesis (DESY)
+5. Flechsig, Lewe, "Increasing reliability of high precision electron beam timing measurement at DESY", 2022, Bachelor thesis (DESY)
+6. Kamel, Kareem, "Development of a quasi-LPV frequency controller for continuous-wave superconducting radio frequency cavities", 2022, Master thesis  (DESY)
+7. Lübsen, Jannis, "Bayesian optimization for the control parameters of the optical synchronization system at European XFEL", 2022, Master thesis  (DESY)
+8. Tran, Thanh Naht, "A Distributed Linear Quadratic Discrete-Time Game (LQDTG) to Multi-Agent Formation", 2022, Master project
+9. Krantz, Benjamin, "Hidden State Estimation at the ARES Electron Accelerator", 2022, Bachelor thesis (DESY)
+10. Mijar, Rohith Kamath, "A Distributed Linear Quadratic Discrete-Time Game (LQDTG) for Spacecraft Formation Flying", 2023, Master project
+
+## News
+1. Our paper with title **"A Distributed Linear Quadratic Discrete-Time Game Approach to Formation Control with Collision Avoidance"** was submitted to CDC 2023
+2. Check out this brief video showcasing how four agents form a rhombus formation shape while utilizing a distributed LQ discrete-time game approach to avoid collisions: [https://youtu.be/G2PoqufPMqA](url)
+
+
