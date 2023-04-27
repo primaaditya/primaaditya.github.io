@@ -1,17 +1,18 @@
 # Prima Aditya
 <img src="./primaDP.jpg" width=120 height=108>
+<sub>prima.aditya@tuhh.de</sub>
 
 ## About Me
-I am a doctoral candidate enrolled in the Institute of Control Systems at Hamburg University of Technology, located in Germany. My research work is primarily focused on developing fundamental links between control, game theory, and multi-agent systems. At present, I am highly interested in exploring
+I am a doctoral candidate enrolled in the Institute of Control Systems at Hamburg University of Technology, Germany, under guidance of Prof. Herbert Werner. My research work is primarily focused on developing fundamental links between control, game theory, and multi-agent systems. At present, I am highly interested in exploring
 
 + Optimal control
 + Distributed approaches to differential games for multi-agent systems
 + Data analytics
 
-Before embarking on my doctoral journey, I obtained a B.Sc. in Applied Mathematics from the Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia, in 2017, and later completed my M.Sc. from the same department in 2019. In addition, I undertook a lab internship at Shibaura Institute of Technology, Saitama, Japan, in 2018, working under the guidance of Prof. Guisheng Zhai.
+Before embarking on my doctoral journey, I obtained a B.Sc. in Applied Mathematics from the Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia, in 2017, and later completed my M.Sc. from the same department in 2019, under guidance of Prof. Erna Apriliani and Dr. Didik Khusnul Arif. In addition, I undertook a lab internship at Shibaura Institute of Technology, Saitama, Japan, in 2018, working under the guidance of Prof. Guisheng Zhai.
 
 ## Publications
-1. P. Aditya and H. Werner, **"A Distributed Linear-Quadratic Discrete-Time Game Approach to Multi-Agent Consensus,"** *2022 IEEE 61st Conference on Decision and Control (CDC)*, Cancun, Mexico, 2022, pp. 6169-6174, doi: 10.1109/CDC51059.2022.9992806.
+1. P. Aditya and H. Werner, **"A Distributed Linear-Quadratic Discrete-Time Game Approach to Multi-Agent Consensus,"** *2022 IEEE 61st Conference on Decision and Control (CDC)*, Cancun, Mexico, 2022, pp. 6169-6174, doi:10.1109/CDC51059.2022.9992806 
 2. P. Aditya, E. Apriliani, D. K. Arif and Mardlijah, **"The Application of Robust Extended H∞ Filter and Consensus Control to The Multi-robot Motion Systems,"** *2019 11th International Conference on Information Technology and Electrical Engineering (ICITEE)*, 2019, pp. 1-6, doi: 10.1109/ICITEED.2019.8929943.
 3. P. Aditya, E. Apriliani, G. Zhai and D. K. Arif, **"Formation Control of Multi-robot Motion Systems and State Estimation using Extended Kalman Filter,"** *2019 International Conference on Electrical Engineering and Informatics (ICEEI)*, 2019, pp. 99-104, doi: 10.1109/ICEEI47359.2019.8988841.
 4. P. Aditya, et al., **"Estimation of Air Pollutant Transportation Equation in Surabaya using Kalman Filter Method",** *2020, International Journal of Computing Science and Applied Mathematics*, Vol 6, No 1.
