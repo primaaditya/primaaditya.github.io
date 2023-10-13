@@ -29,7 +29,7 @@ Before embarking on my doctoral journey, I obtained a B.Sc. in Applied Mathemati
 * **03/2017-09/2019** M.Sc. in Applied Mathematics, Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia
 * **04/2019-06/2019**	Business Analyst at PowerCommerceAsia, Jakarta, Indonesia
 * **07/2018-10/2018**	M.Sc Lab Internship at Shibaura Institute of Technology, Saitama, Japan
-* **09/2013-09/2017**	B.Sc. in Applied Mathematics, Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia
+* **09/2013-03/2017**	B.Sc. in Applied Mathematics, Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia
 
 ## Teaching Responsibilities
 * **Winter term 2023/2024** Control Systems Theory and Design
