@@ -1,14 +1,14 @@
 # Prima Aditya 
-<img src="./prima2.jpg" width=160 height=220>
+<img src="./prima-3.jpg" width=160 height=220>
 
  <sub>prima.aditya@tuhh.de</sub>
 
 ## About Me
 I am a doctoral candidate enrolled in the Institute of Control Systems at Hamburg University of Technology, Germany, under guidance of Prof. Herbert Werner. My research work is primarily focused on developing fundamental links between control, game theory, and multi-agent systems. At present, I am highly interested in exploring
 
-+ Optimal control
-+ Distributed approaches to differential games for multi-agent systems
-+ Data analytics
++ Optimal/ predictive control
++ Distributed approaches to differential games for MAS
++ Data assimilation, data analysis
 
 Before embarking on my doctoral journey, I obtained a B.Sc. in Applied Mathematics from the Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia, in 2017, and later completed my M.Sc. from the same department in 2019, under guidance of Prof. Erna Apriliani and Dr. Didik Khusnul Arif. In addition, I undertook a lab internship at Shibaura Institute of Technology, Saitama, Japan, in 2018, working under the guidance of Prof. Guisheng Zhai.
 
